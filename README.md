@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Erivelton Pinheiro de Menezes!  
 
 ### 💼 Biografia  
-Sou Advogado especialista em Direito Penal e Processual Penal pelo Centro Universitário de Ensino Superior do Amazonas (CIESA) e em Direito Processual pela Escola Superior da Magistratura do Amazonas (ESMAM). Atualmente, sou pós-graduando em Direito Tributário pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), com foco em conformidade fiscal, inteligência artificial e tecnologia aplicada à administração tributária.  
+Especialista em Direito Penal e Processual Penal pelo Centro Universitário de Ensino Superior do Amazonas (CIESA) e em Direito Processual pela Escola Superior da Magistratura do Amazonas (ESMAM). Atualmente, sou pós-graduando em Direito Tributário pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), com foco em conformidade fiscal, inteligência artificial e tecnologia aplicada à administração tributária.  
 
 Além do Direito, tenho grande interesse por tecnologia, programação e segurança cibernética, buscando integrar essas áreas para desenvolver soluções inovadoras.  
 
