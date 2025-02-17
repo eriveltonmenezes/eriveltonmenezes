@@ -1,9 +1,3 @@
-O GitHub README usa Markdown, que não suporta JavaScript diretamente. No entanto, você pode adicionar um link clicável para o seu perfil no LinkedIn e, se quiser um selo visual, pode usar uma imagem como alternativa.  
-
-Aqui está como ficaria a versão com um selo do LinkedIn no seu perfil do GitHub:  
-
----
-
 ## 👋 Olá, eu sou Erivelton Menezes!  
 
 ### 💼 Biografia  
