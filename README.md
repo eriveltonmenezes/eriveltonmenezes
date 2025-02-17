@@ -30,10 +30,6 @@ Tenho um olhar multidisciplinar, unindo Direito e Tecnologia para criar soluçõ
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔗 Conecte-se comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EriveltonMenezes-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/eriveltonmenezes-advogado)  
-[![GitHub](https://img.shields.io/badge/GitHub-eriveltonmenezes-black?style=flat&logo=github)](https://github.com/eriveltonmenezes)  
-
 ### 🔗 Conecte-se Comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EriveltonMenezes-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/eriveltonmenezes-advogado)
 [![GitHub](https://img.shields.io/badge/GitHub-eriveltonmenezes-black?style=for-the-badge&logo=github)](https://github.com/eriveltonmenezes)
