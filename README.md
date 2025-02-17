@@ -25,14 +25,14 @@ Além do Direito, tenho grande interesse por tecnologia, programação e seguran
 ### 🚀 Sempre aprendendo e evoluindo!  
 Tenho um olhar multidisciplinar, unindo Direito e Tecnologia para criar soluções inovadoras. Se quiser trocar ideias sobre programação, ciência de dados, segurança cibernética ou direito digital, estou à disposição!  
 
-### 🔗 Conecte-se comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EriveltonMenezes-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/eriveltonmenezes-advogado)  
-[![GitHub](https://img.shields.io/badge/GitHub-eriveltonmenezes-black?style=flat&logo=github)](https://github.com/eriveltonmenezes)  
-
 ### 🚀 Tecnologias & Ferramentas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🔗 Conecte-se comigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EriveltonMenezes-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/eriveltonmenezes-advogado)  
+[![GitHub](https://img.shields.io/badge/GitHub-eriveltonmenezes-black?style=flat&logo=github)](https://github.com/eriveltonmenezes)  
 
 ### 🔗 Conecte-se Comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EriveltonMenezes-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/eriveltonmenezes-advogado)
