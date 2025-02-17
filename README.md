@@ -17,7 +17,7 @@ Além do Direito, tenho grande interesse por tecnologia, programação e seguran
 🔹 [Fundamentos do JavaScript 1](https://www.credly.com/badges/0cce37fe-20d1-4c3b-b655-975316d77d8f)  
 🔹 [Introdução à Ciência de Dados](https://www.credly.com/badges/d34d263c-9b64-49a0-b945-e335b85fac93)  
 🔹 [Analista de Segurança Cibernética Júnior](https://www.credly.com/badges/bf868377-c146-440c-9832-3f7f176c59fa)  
-🔹 [Certificação Digital - Ada Tech](https://ada.tech/certificado?code=bb498f68-59d0-a095-76ea-1fc2e7b2672f)  
+🔹 [Trilha Digital | Coders 24 | Front End - Certificação Digital - Ada Tech](https://ada.tech/certificado?code=bb498f68-59d0-a095-76ea-1fc2e7b2672f)  
 
 ### 📂 Projetos em Destaque  
 🔸 *Em breve!* (Estou trabalhando em projetos que exploram minhas habilidades em Python, JavaScript e segurança cibernética. Fique ligado!)  
