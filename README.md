@@ -34,3 +34,9 @@ Tenho um olhar multidisciplinar, unindo Direito e Tecnologia para criar soluçõ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EriveltonMenezes-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/eriveltonmenezes-advogado)
 [![GitHub](https://img.shields.io/badge/GitHub-eriveltonmenezes-black?style=for-the-badge&logo=github)](https://github.com/eriveltonmenezes)
 
+<div>
+<a href="https://github.com/eriveltonmenezes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriveltonmenezes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eriveltonmenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
