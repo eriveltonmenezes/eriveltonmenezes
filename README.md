@@ -18,9 +18,9 @@ My goal is to connect legal reasoning with technological innovation to create mo
 - 👉 📊**IBM Data Science Professional Certificate** *(in progress)*  
   
 ## 📂 Projetos em Destaque  
-🔸 *Coming soon!* (I'm working on projects that explore my skills in Python, JavaScript, and cybersecurity. Stay tuned!)
+🔸 *Coming soon!* (I'm working on projects that explore my skills in Python, JavaScript, and Cybersecurity. Stay tuned!)
   
-### 🚀 Technologies and Tools:
+## 🚀 Technologies and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
