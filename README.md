@@ -28,6 +28,10 @@ My goal is to connect legal reasoning with technological innovation to create mo
 ## 🌐 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-eriveltonmenezes-black?style=for-the-badge&logo=github)](https://github.com/eriveltonmenezes)
 
+> “With a legal background, now exploring technology. Passionate about coding, cybersecurity, and the intersection of law and digital innovation.”
+
+---
+⭐ *Let’s build secure, ethical, and innovative digital systems together.*
 <div>
 <a href="https://github.com/eriveltonmenezes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriveltonmenezes&layout=compact&langs_count=7&theme=transparent"/>
