@@ -13,8 +13,8 @@ My goal is to connect legal reasoning with technological innovation to create mo
 - **Soft Skills:** Analytical thinking, legal reasoning, continuous learning  
 
 ## 🏅 Certifications (in progress / planned)
-- 🧩 **Junior Cybersecurity Analyst Career Path** - [Cisco](https://www.credly.com/badges/bf868377-c146-440c-9832-3f7f176c59fa/public_url)
-- 🐍 **CS50’s Introduction to Programming with Pythony** - [Harvard](https://certificates.cs50.io/9ca94f34-9ac9-4075-84bd-d2829235e6b0.pdf?size=letter) - [Harvardx](https://courses.edx.org/certificates/f86ecb82db1144d59f2bce4306aefb16)
+- 🧩 [Cisco - Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/bf868377-c146-440c-9832-3f7f176c59fa/public_url)
+- 🐍 [Harvard University - CS50’s Introduction to Programming with Pythony](https://certificates.cs50.io/9ca94f34-9ac9-4075-84bd-d2829235e6b0.pdf?size=letter) - [edX - Verified Ceritificate HarvardX](https://courses.edx.org/certificates/f86ecb82db1144d59f2bce4306aefb16)
 - 👉 📊**IBM Data Science Professional Certificate** *(in progress)*  
   
 ## 📂 Projetos em Destaque  
