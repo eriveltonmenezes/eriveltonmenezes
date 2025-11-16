@@ -16,7 +16,7 @@ My goal is to connect legal reasoning with technological innovation to create mo
 - 🧩 **Cisco:** [Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/bf868377-c146-440c-9832-3f7f176c59fa/public_url)
 - 🐍 **Harvard University:** [CS50’s Introduction to Programming with Pythony](https://certificates.cs50.io/9ca94f34-9ac9-4075-84bd-d2829235e6b0.pdf?size=letter) - **edX:** [Verified Ceritificate HarvardX](https://courses.edx.org/certificates/f86ecb82db1144d59f2bce4306aefb16)
 - 📊**International Business Machines** [IBM Data Science Professional Certificate](https://www.credly.com/badges/38a50ade-f48b-476b-b658-491dd21f718e/public_url)
-- 👉 ... *(in progress)*  
+- 👉 **Machine Learning Specialization** *(in progress)*  
   
 ## 📂 Projetos em Destaque  
 🔸 *Coming soon!* (I'm working on projects that explore my skills in Python, JavaScript, and Cybersecurity. Stay tuned!)
